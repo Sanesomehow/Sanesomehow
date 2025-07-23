@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **My own implementation of Tally.so*  
+- 🔭 I’m currently working on *My own implementation of Tally.so*  
 - 🌱 I’m learning **Design / Headless CMS / PWA**  
 - 💬 Ask me about **Web Dev / Web3 / UI / Books**  
 - 📫 How to reach me: **sidnarsingkar@gmail.com / https://www.linkedin.com/in/siddhesh-narsingkar**  
@@ -22,7 +22,7 @@
 
 <!-- Group badges by domain -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,next.js,nodejs,aws,docker,kubernetes,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,next,nodejs,aws,docker,kubernetes,postgres,mongodb" />
 </p>
 
 ---
